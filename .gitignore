@@ -1,1 +1,6 @@
 Pipfile.lock
+data/tracks
+__pycache__/
+test/__pycache__/
+.pytest_cache
+test/.pytest_cache/
